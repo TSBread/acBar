@@ -10,6 +10,8 @@ scoreboard objectives add acBar.max dummy
 scoreboard objectives add acBar.actual dummy
 # 所有玩家ac栏的文字显示
 scoreboard objectives add acBar.lore dummy
+# 所有玩家ac栏的颜色
+scoreboard objectives add acBar.color dummy
 # 系统运算
 scoreboard objectives add acBar.core dummy
 scoreboard players set #101 acBar.core 101
