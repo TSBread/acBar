@@ -1,5 +1,7 @@
 **By [TSBread](https://space.bilibili.com/450655172 "转到TSBread的B站")**
 
+![GitHub Org's stars](https://img.shields.io/github/stars/TSBread/acBar?style=plastic)
+
 **版本：1.19.2 (按理说只要支持[`字形提供器space`](https://www.bilibili.com/read/cv15732133 "ctrl+f搜索:字形提供器space")的版本都可以用)**
 
 ### 演示视频
