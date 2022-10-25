@@ -16,4 +16,4 @@
 - 玩家修改`function bar:oper/color_x`与`function bar:oper/color_x`更改指定玩家栏的颜色和显示文字
 - 在`acBar.max`中设置玩家ac栏的最大值、在`acBar.actual`中设置玩家ac栏的实际值
 - 关于 lore 的修改请以`res\assets\ui\textures\lang`内的图片为准。需要注意的是图片高度必须为 255，且图片左右两侧各有一个 alpha 很小的色块，目的是保持图片的宽度
-- 已修复 👉~~这个版本的修改 bar 的 color 稍微有点问题 但是不大。按照 lore 的模板将 color 修改即可，否则切换一个玩家的 bar 颜色会同时更改全局玩家 bar 的颜色~~
+- **已修复 👉**~~这个版本的修改 bar 的 color 稍微有点问题 但是不大。按照 lore 的模板将 color 修改即可，否则切换一个玩家的 bar 颜色会同时更改全局玩家 bar 的颜色~~
