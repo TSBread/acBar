@@ -12,7 +12,7 @@
 ### 注意事项
 
 - 使用时请先执行`function bar:load`以加载数据
-- 占用`0 254~255 0`处作为解码器、强制加载`0 0`处确保实体以及解码器能被加载到、计分板前缀`acBar.`
+- 占用`0 254~255 0`处作为解码器、强制加载`0 0`处确保实体以及解码器能被加载到、计分板命名前缀`acBar.`、存储命名`minecraft:bar`
 - 玩家修改`function bar:oper/color_x`与`function bar:oper/color_x`更改指定玩家栏的颜色和显示文字
 - 在`acBar.max`中设置玩家ac栏的最大值、在`acBar.actual`中设置玩家ac栏的实际值
 - 关于 lore 的修改请以`res\assets\ui\textures\lang`内的图片为准。需要注意的是图片高度必须为 255，且图片左右两侧各有一个 alpha 很小的色块，目的是保持图片的宽度
