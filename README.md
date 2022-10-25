@@ -1,6 +1,7 @@
 <div style="display: flex;flex-direction: column;align-items: center;justify-content: flex-start">
 <img src="https://i2.hdslb.com/bfs/face/0b38f98c687ba8220860cc675cdbcbd05599a56e.jpg" style="border-radius:80% 80% 80% 80%;" title="TSBread2960278" width=96px></img>
-<img src="https://img.shields.io/github/stars/TSBread/acBar?style=plastic" style="vertical-align:middle;margin-top:5px" width=54px></img>
+<br/>
+<img src="https://img.shields.io/github/stars/TSBread/acBar?style=plastic" style="vertical-align:middle" width=54px></img>
 </div>
 
 **版本：1.19.2 (按理说只要支持[`字形提供器space`](https://www.bilibili.com/read/cv15732133 "ctrl+f搜索:字形提供器space")的版本都可以用)**
