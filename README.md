@@ -4,8 +4,6 @@
 
 ### 演示视频
 
-https://www.bilibili.com/video/BV1GT411P72M
-
-<iframe src="//player.bilibili.com/player.html?aid=473704481&bvid=BV1GT411P72M&cid=852608084&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<https://www.bilibili.com/video/BV1GT411P72M>
 
 ### (**!**)这个版本的修改bar的color稍微有点问题 但是不大。按照lore的模板将color修改即可，否则切换一个玩家的bar颜色会同时更改全局玩家bar的颜色
