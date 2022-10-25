@@ -1,1 +1,2 @@
-scoreboard players set @p acBar.lore 1
+# out → bar:lore
+scoreboard players set @s acBar.lore 1
