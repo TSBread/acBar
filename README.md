@@ -4,8 +4,6 @@
 <img src="https://img.shields.io/github/watchers/TSBread/acBar?style=plastic"></img>
 <img src="https://img.shields.io/github/stars/TSBread/acBar?style=plastic"></img>
 <img src="https://img.shields.io/github/languages/top/TSBread/acBar?style=plastic"></img>
-<br>
-<img src="https://img.shields.io/github/repo-size/TSBread/acBar?style=plastic"></img>
 <img src="https://img.shields.io/github/last-commit/TSBread/acBar?style=plastic"></img>
 
 **适用版本：`1.19.2` (按理说只要支持[`字形提供器space`](https://www.bilibili.com/read/cv15732133 "ctrl+f搜索:字形提供器space")的版本都可以用)**
