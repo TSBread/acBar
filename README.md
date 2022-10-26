@@ -12,7 +12,7 @@
 
 ### 注意事项
 
-- 使用时请先执行`function bar:load`以加载数据
+- 使用时请先执行`function bar:load`以加载数据、让每个玩家执行`function bar:refresh`以更新bar数据
 - 占用`0 254~255 0`处作为解码器、强制加载`0 0`处确保实体以及解码器能被加载到、计分板命名前缀`acBar.`、存储命名`minecraft:bar`
 - 玩家修改`function bar:oper/color_x`与`function bar:oper/color_x`更改指定玩家栏的颜色和显示文字
 - 在`acBar.max`中设置玩家ac栏的最大值、在`acBar.actual`中设置玩家ac栏的实际值
